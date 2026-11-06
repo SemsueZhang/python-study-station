@@ -28,9 +28,9 @@ export function estimateChapter(chapter: Chapter, examples: Example[]): StudyTim
 }
 
 export function formatStudyTime(time: StudyTime, unit: 'minutes' | 'hours' = 'hours'): string {
-  if (unit === 'minutes') return `${time.min}–${time.max} 分钟`;
-  // Round outwards to half hours so these remain useful planning ranges.
-  const min = Math.floor(time.min / 30) / 2;
-  const max = Math.ceil(time.max / 30) / 2;
-  return min === max ? `${max} 小时` : `${min}–${max} 小时`;
+  const minutes = Math.round((time.min + time.max) / 2);
+  if (unit === 'minutes') return `${minutes} 分钟`;
+  const hours = Math.floor(minutes / 60);
+  const remainder = minutes % 60;
+  return remainder ? `${hours} 小时 ${remainder} 分钟` : `${hours} 小时`;
 }
