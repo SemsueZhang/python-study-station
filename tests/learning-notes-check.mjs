@@ -5,7 +5,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 
 const course = JSON.parse(await readFile('src/data/course.json', 'utf8'));
 const base = process.env.SITE_URL || 'http://127.0.0.1:4173/';
-const browser = await chromium.launch({ headless: true });
+const browser = await chromium.launch({ headless: true, proxy: process.env.HTTPS_PROXY ? { server: process.env.HTTPS_PROXY, bypass: '127.0.0.1,localhost' } : undefined });
 const context = await browser.newContext({ viewport: { width: 1440, height: 1100 } });
 const page = await context.newPage();
 const errors = [];
@@ -53,6 +53,13 @@ try {
   assert.equal(new URL(page.url()).hash, '#/chapter/4/s2');
   await page.goBack();
   assert.equal(new URL(page.url()).hash, '#/chapter/1/intro');
+  for (const term of ['CPU', 'LEGB', '第4章']) {
+    await page.getByRole('textbox', { name: '搜索全部笔记与习题' }).fill(term);
+    const snippets = await page.locator('.search-results a span').allTextContents();
+    assert(snippets.length > 0);
+    assert(snippets.every(text => !/<\/?(?:details|summary)|\.md#/.test(text)), 'Search exposes markup');
+  }
+  await page.getByRole('button', { name: '清空搜索' }).click();
   for (const width of [1440, 390]) {
     await page.setViewportSize({ width, height: width === 390 ? 844 : 1100 });
     for (const route of ['1/s1', '6/s6', '7/s7']) {
