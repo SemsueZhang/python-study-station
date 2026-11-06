@@ -1,0 +1,39 @@
+{
+  "cards": 33,
+  "links": 63,
+  "sections": 72,
+  "examples": 149,
+  "accessibility": [
+    {
+      "width": 1440,
+      "route": "1/s1",
+      "violations": []
+    },
+    {
+      "width": 1440,
+      "route": "6/s6",
+      "violations": []
+    },
+    {
+      "width": 1440,
+      "route": "7/s7",
+      "violations": []
+    },
+    {
+      "width": 390,
+      "route": "1/s1",
+      "violations": []
+    },
+    {
+      "width": 390,
+      "route": "6/s6",
+      "violations": []
+    },
+    {
+      "width": 390,
+      "route": "7/s7",
+      "violations": []
+    }
+  ],
+  "errors": []
+}
