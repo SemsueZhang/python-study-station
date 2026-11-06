@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-06",
+  "content": {
+    "chapters": 7,
+    "sections": 72,
+    "questions": 140,
+    "crossReferences": 2,
+    "bodyPythonBlocks": 149,
+    "totalRunnableExamples": 151
+  },
+  "runtime": {
+    "engine": "Chromium + Pyodide 0.29.3 Worker",
+    "passed": 151,
+    "total": 151,
+    "generatedPlots": 3
+  },
+  "interaction": {
+    "passed": 10,
+    "total": 10,
+    "checks": [
+      "章节深链接、完成标记和阅读位置刷新恢复",
+      "全文搜索与目标小节跳转",
+      "按章答题、原解析、错题持久化及重练移出",
+      "随机抽取20题无重复、跨题代码完整",
+      "互动切片、循环、函数、递归单步播放重置",
+      "Python首次加载、输入输出、连续运行及变量隔离",
+      "停止死循环后恢复执行",
+      "30秒真实执行超时与重建恢复",
+      "解释器下载失败仍可阅读、解除故障后重试",
+      "移动端目录、页面宽度、键盘和减少动态效果"
+    ]
+  },
+  "accessibility": {
+    "engine": "axe WCAG 2.1 AA automated checks",
+    "states": 13,
+    "violations": 0
+  },
+  "visualReview": [
+    "1440px desktop home",
+    "390px mobile home",
+    "390px mobile interactive lab"
+  ],
+  "limitations": [
+    "有限检查不等于全浏览器认证",
+    "第一次运行 Python 需要从 jsDelivr 下载解释器及相应包",
+    "AI 为离线模拟，行情为合成教学数据"
+  ]
+}

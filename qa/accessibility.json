@@ -1,0 +1,57 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "route": "#/",
+      "violations": []
+    },
+    {
+      "route": "#/chapter/4/s2",
+      "violations": []
+    },
+    {
+      "route": "#/chapter/7/s7",
+      "violations": []
+    },
+    {
+      "route": "#/chapter/7/s8",
+      "violations": []
+    },
+    {
+      "route": "#/practice/chapter/1",
+      "violations": []
+    },
+    {
+      "route": "#/lab",
+      "violations": []
+    },
+    {
+      "route": "#/lab/循环与变量",
+      "violations": []
+    },
+    {
+      "route": "#/lab/函数调用",
+      "violations": []
+    },
+    {
+      "route": "#/lab/递归调用栈",
+      "violations": []
+    },
+    {
+      "route": "mobile #/",
+      "violations": []
+    },
+    {
+      "route": "mobile #/chapter/4/s2",
+      "violations": []
+    },
+    {
+      "route": "mobile #/practice/chapter/1",
+      "violations": []
+    },
+    {
+      "route": "mobile #/lab",
+      "violations": []
+    }
+  ]
+}

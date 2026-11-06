@@ -1,0 +1,1417 @@
+[
+  {
+    "id": "ch1-0fd94009f9ce",
+    "chapter": 1,
+    "section": "s1",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch1-8d50c6fd278f",
+    "chapter": 1,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch1-988be7537858",
+    "chapter": 1,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch1-cbc54f7853bd",
+    "chapter": 1,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch1-7937c723859e",
+    "chapter": 1,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch1-8c2f4ed39212",
+    "chapter": 1,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch1-c8f62ae2fc70",
+    "chapter": 1,
+    "section": "s8",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-e14f11bc80b2",
+    "chapter": 2,
+    "section": "s1",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-526b27fc5e8b",
+    "chapter": 2,
+    "section": "s2",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-d27523f59fd8",
+    "chapter": 2,
+    "section": "s2",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-f13c00fb17ca",
+    "chapter": 2,
+    "section": "s2",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-46dbfad344b1",
+    "chapter": 2,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-a0833336a560",
+    "chapter": 2,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-c1871253cc60",
+    "chapter": 2,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-4fd3a8757ef5",
+    "chapter": 2,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-19a9f4099f86",
+    "chapter": 2,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-03e9cff1fd8e",
+    "chapter": 2,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch2-3d28767a5f03",
+    "chapter": 2,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-5e342b2218cd",
+    "chapter": 2,
+    "section": "s5",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-07f4633cbdee",
+    "chapter": 2,
+    "section": "s5",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-59fe776ff489",
+    "chapter": 2,
+    "section": "s5",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-afe21c27de2d",
+    "chapter": 2,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-24580b1789e3",
+    "chapter": 2,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-81cf3a8c83b9",
+    "chapter": 2,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-ad5b0e4615bd",
+    "chapter": 2,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-263678970ee1",
+    "chapter": 2,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-3a367e5a7aba",
+    "chapter": 2,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-fb1bc632cf9d",
+    "chapter": 2,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-187fd836a190",
+    "chapter": 2,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-260cd7773383",
+    "chapter": 2,
+    "section": "s8",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-53044c6e668c",
+    "chapter": 2,
+    "section": "s8",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-b70f7d424dc1",
+    "chapter": 2,
+    "section": "s9",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-54aa997ff20a",
+    "chapter": 2,
+    "section": "s9",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch2-25ebfef6becb",
+    "chapter": 2,
+    "section": "s9",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-1441a2475d19",
+    "chapter": 3,
+    "section": "s1",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-bc4a66f387ad",
+    "chapter": 3,
+    "section": "s2",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-63ec3b2e8f32",
+    "chapter": 3,
+    "section": "s2",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-1e8ee68219c9",
+    "chapter": 3,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-b48321f53126",
+    "chapter": 3,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-77b8e6eaa6d5",
+    "chapter": 3,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-f03dac08bea1",
+    "chapter": 3,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-8db9b75cd256",
+    "chapter": 3,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-b9e48793e79a",
+    "chapter": 3,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-19167b60e284",
+    "chapter": 3,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-76815d96f45b",
+    "chapter": 3,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-1aea15d101db",
+    "chapter": 3,
+    "section": "s5",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-60de9623e35a",
+    "chapter": 3,
+    "section": "s5",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-334298e8f48b",
+    "chapter": 3,
+    "section": "s5",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-a48badcce475",
+    "chapter": 3,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-29396ac5911f",
+    "chapter": 3,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-cefe012a56b6",
+    "chapter": 3,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-a35c2334a141",
+    "chapter": 3,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch3-2e81eb426229",
+    "chapter": 3,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-62029612cc06",
+    "chapter": 4,
+    "section": "s1",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch4-c5b4b3c36ef4",
+    "chapter": 4,
+    "section": "s1",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-94e04899de9e",
+    "chapter": 4,
+    "section": "s1",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-6e2dbff2d1e0",
+    "chapter": 4,
+    "section": "s1",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-e59c66eb5dad",
+    "chapter": 4,
+    "section": "s2",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-b72acb48331d",
+    "chapter": 4,
+    "section": "s2",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-61b098e9f3b9",
+    "chapter": 4,
+    "section": "s2",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-3e8533a6e721",
+    "chapter": 4,
+    "section": "s2",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-b1d72baa4cee",
+    "chapter": 4,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-4238e587af0f",
+    "chapter": 4,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-d9450dc8d422",
+    "chapter": 4,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-fae84246fc9f",
+    "chapter": 4,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-a031d91fe5fb",
+    "chapter": 4,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-c22c2f9debf3",
+    "chapter": 4,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-d6a1a4961882",
+    "chapter": 4,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-ef39d59c2a46",
+    "chapter": 4,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-77ddb789f1f3",
+    "chapter": 4,
+    "section": "s5",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-988d56351d37",
+    "chapter": 4,
+    "section": "s5",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-7e179f1e6f9a",
+    "chapter": 4,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-e143a2eae6a7",
+    "chapter": 4,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-664e5db2d018",
+    "chapter": 4,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch4-41cb4d1eb4e1",
+    "chapter": 4,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-7fc61d9415b2",
+    "chapter": 4,
+    "section": "s8",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-eda14e6c689a",
+    "chapter": 4,
+    "section": "s8",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-e99b938fa547",
+    "chapter": 4,
+    "section": "s9",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch4-1293b693e77d",
+    "chapter": 4,
+    "section": "s9",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-0175118189dc",
+    "chapter": 5,
+    "section": "s1",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-86f4a12a6ca2",
+    "chapter": 5,
+    "section": "s1",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch5-eda1484326e9",
+    "chapter": 5,
+    "section": "s2",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-64a5408f01aa",
+    "chapter": 5,
+    "section": "s2",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-37d21d3fbb8a",
+    "chapter": 5,
+    "section": "s2",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-e97202aaf380",
+    "chapter": 5,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-31ac1acd8ce7",
+    "chapter": 5,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-c85a2f9d6ef1",
+    "chapter": 5,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-d2ff5d3be966",
+    "chapter": 5,
+    "section": "s5",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-7c468b442deb",
+    "chapter": 5,
+    "section": "s5",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-75ecbbf355a4",
+    "chapter": 5,
+    "section": "s5",
+    "expectedError": "",
+    "files": [
+      "sample.txt"
+    ],
+    "packages": [],
+    "note": "所需文件已放入本次运行的虚拟目录。"
+  },
+  {
+    "id": "ch5-29eb29129860",
+    "chapter": 5,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-f54587c04734",
+    "chapter": 5,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-2cac1fb4d6c0",
+    "chapter": 5,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-6baa8a374695",
+    "chapter": 5,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-d4240f848d59",
+    "chapter": 5,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-3c55ae3f82bc",
+    "chapter": 5,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-7c2b0f4c3d19",
+    "chapter": 5,
+    "section": "s8",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-ce024bf036c8",
+    "chapter": 5,
+    "section": "s8",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-230cfbdbadda",
+    "chapter": 5,
+    "section": "s9",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch5-dc67409d016b",
+    "chapter": 5,
+    "section": "s9",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-8e2fdb24936a",
+    "chapter": 6,
+    "section": "s1",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-21d4bd3f94f3",
+    "chapter": 6,
+    "section": "s2",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch6-d91ec1b407d2",
+    "chapter": 6,
+    "section": "s2",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-d319fa41fa8a",
+    "chapter": 6,
+    "section": "s2",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch6-47ba35eb2991",
+    "chapter": 6,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-ac866afc14af",
+    "chapter": 6,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-0d78094433e9",
+    "chapter": 6,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-5e56b0ff987f",
+    "chapter": 6,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-723cec569cdc",
+    "chapter": 6,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-e85405290e9b",
+    "chapter": 6,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-c82d0147e06c",
+    "chapter": 6,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch6-3a6adc4d47f6",
+    "chapter": 6,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-d7c09d65e7f6",
+    "chapter": 6,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch6-7ae7c7559431",
+    "chapter": 6,
+    "section": "s5",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch6-c812a3ace49e",
+    "chapter": 6,
+    "section": "s5",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch6-1cfe13ef5802",
+    "chapter": 6,
+    "section": "s5",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-709b79294791",
+    "chapter": 6,
+    "section": "s5",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-96bbcd2dc00d",
+    "chapter": 6,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-ecc93026d04c",
+    "chapter": 6,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-ad31c9f33e84",
+    "chapter": 6,
+    "section": "s6",
+    "expectedError": "UnboundLocalError",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch6-4641c6b792cd",
+    "chapter": 6,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch6-41492893fca9",
+    "chapter": 6,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-272d25c54f95",
+    "chapter": 6,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-8f99b16ea075",
+    "chapter": 6,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-13d660b68095",
+    "chapter": 6,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-512a4869494c",
+    "chapter": 6,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-0a25f02a59a6",
+    "chapter": 6,
+    "section": "s8",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch6-4d967eaf6bed",
+    "chapter": 6,
+    "section": "s8",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch7-cf764ddbef2a",
+    "chapter": 7,
+    "section": "s1",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch7-06734c1618d2",
+    "chapter": 7,
+    "section": "s1",
+    "expectedError": "RecursionError",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch7-9018b7e2a87e",
+    "chapter": 7,
+    "section": "s2",
+    "expectedError": "TypeError",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch7-a0718b12713d",
+    "chapter": 7,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch7-56eaf1ef5bbf",
+    "chapter": 7,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch7-d276e8da5696",
+    "chapter": 7,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch7-4201dd372a3c",
+    "chapter": 7,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch7-115518e694ae",
+    "chapter": 7,
+    "section": "s5",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "运行代码已补齐上下文或示例调用，可在编辑器中查看。"
+  },
+  {
+    "id": "ch7-dfef20ce272b",
+    "chapter": 7,
+    "section": "s6",
+    "expectedError": "",
+    "files": [
+      "study_tools.py"
+    ],
+    "packages": [],
+    "note": "所需文件已放入本次运行的虚拟目录。"
+  },
+  {
+    "id": "ch7-f18734dc044f",
+    "chapter": 7,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch7-34375eb0d963",
+    "chapter": 7,
+    "section": "s7",
+    "expectedError": "",
+    "files": [
+      "mock_openai.py",
+      "Call_AI.py"
+    ],
+    "packages": [],
+    "note": "离线模拟：保留原接口的参数检查、消息组织和客户端管理逻辑。mock_openai.py 返回预置响应，不连接 AI 服务。编辑器展示本次实际执行的代码，文件区展示补齐的模块。"
+  },
+  {
+    "id": "ch7-dc98ccd8fd47",
+    "chapter": 7,
+    "section": "s7",
+    "expectedError": "",
+    "files": [
+      "mock_openai.py",
+      "Call_AI.py"
+    ],
+    "packages": [],
+    "note": "离线模拟：保留原接口的参数检查、消息组织和客户端管理逻辑。mock_openai.py 返回预置响应，不连接 AI 服务。编辑器展示本次实际执行的代码，文件区展示补齐的模块。"
+  },
+  {
+    "id": "ch7-9a294a5c9643",
+    "chapter": 7,
+    "section": "s7",
+    "expectedError": "",
+    "files": [
+      "mock_openai.py",
+      "Call_AI.py"
+    ],
+    "packages": [],
+    "note": "离线模拟：保留原接口的参数检查、消息组织和客户端管理逻辑。mock_openai.py 返回预置响应，不连接 AI 服务。编辑器展示本次实际执行的代码，文件区展示补齐的模块。"
+  },
+  {
+    "id": "ch7-4d9373ff007a",
+    "chapter": 7,
+    "section": "s7",
+    "expectedError": "",
+    "files": [
+      "mock_openai.py",
+      "Call_AI.py"
+    ],
+    "packages": [],
+    "note": "离线模拟：保留原接口的参数检查、消息组织和客户端管理逻辑。mock_openai.py 返回预置响应，不连接 AI 服务。编辑器展示本次实际执行的代码，文件区展示补齐的模块。"
+  },
+  {
+    "id": "ch7-27b453de3ba3",
+    "chapter": 7,
+    "section": "s7",
+    "expectedError": "",
+    "files": [
+      "mock_openai.py",
+      "Call_AI.py"
+    ],
+    "packages": [],
+    "note": "离线模拟：保留原接口的参数检查、消息组织和客户端管理逻辑。mock_openai.py 返回预置响应，不连接 AI 服务。编辑器展示本次实际执行的代码，文件区展示补齐的模块。"
+  },
+  {
+    "id": "ch7-96a970464f5b",
+    "chapter": 7,
+    "section": "s8",
+    "expectedError": "",
+    "files": [
+      "sample_market.py",
+      "stock_analysis.py"
+    ],
+    "packages": [
+      "pandas",
+      "matplotlib"
+    ],
+    "note": "内置合成行情：sample_market.py 提供固定示例数据，替代真实行情接口。原函数在 Pyodide 中实际执行抽样、日期排序、收益率计算和绘图。数据与模块代码可在文件区查看。"
+  },
+  {
+    "id": "ch7-e2989810887d",
+    "chapter": 7,
+    "section": "s8",
+    "expectedError": "",
+    "files": [
+      "sample_market.py",
+      "stock_analysis.py"
+    ],
+    "packages": [
+      "pandas",
+      "matplotlib"
+    ],
+    "note": "内置合成行情：sample_market.py 提供固定示例数据，替代真实行情接口。原函数在 Pyodide 中实际执行抽样、日期排序、收益率计算和绘图。数据与模块代码可在文件区查看。"
+  },
+  {
+    "id": "ch7-f91d134ea09c",
+    "chapter": 7,
+    "section": "s8",
+    "expectedError": "",
+    "files": [
+      "sample_market.py",
+      "stock_analysis.py"
+    ],
+    "packages": [
+      "pandas",
+      "matplotlib"
+    ],
+    "note": "内置合成行情：sample_market.py 提供固定示例数据，替代真实行情接口。原函数在 Pyodide 中实际执行抽样、日期排序、收益率计算和绘图。数据与模块代码可在文件区查看。"
+  },
+  {
+    "id": "ch7-bf51711cad85",
+    "chapter": 7,
+    "section": "s8",
+    "expectedError": "",
+    "files": [
+      "sample_market.py",
+      "stock_analysis.py"
+    ],
+    "packages": [
+      "pandas",
+      "matplotlib"
+    ],
+    "note": "内置合成行情：sample_market.py 提供固定示例数据，替代真实行情接口。原函数在 Pyodide 中实际执行抽样、日期排序、收益率计算和绘图。数据与模块代码可在文件区查看。"
+  },
+  {
+    "id": "ch7-2c43ec691901",
+    "chapter": 7,
+    "section": "s8",
+    "expectedError": "",
+    "files": [
+      "sample_market.py",
+      "stock_analysis.py"
+    ],
+    "packages": [
+      "pandas",
+      "matplotlib"
+    ],
+    "note": "内置合成行情：sample_market.py 提供固定示例数据，替代真实行情接口。原函数在 Pyodide 中实际执行抽样、日期排序、收益率计算和绘图。数据与模块代码可在文件区查看。"
+  },
+  {
+    "id": "ch7-25f2c4698102",
+    "chapter": 7,
+    "section": "s8",
+    "expectedError": "",
+    "files": [
+      "stock_analysis.py"
+    ],
+    "packages": [
+      "pandas"
+    ],
+    "note": "所需文件已放入本次运行的虚拟目录。"
+  },
+  {
+    "id": "ch7-ai-demo",
+    "chapter": 7,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": "此实验使用本地规则生成模拟响应，用来观察参数传递与模块协作。"
+  },
+  {
+    "id": "ch7-stock-demo",
+    "chapter": 7,
+    "section": "s8",
+    "expectedError": "",
+    "files": [],
+    "packages": [
+      "pandas",
+      "matplotlib"
+    ],
+    "note": "固定教学数据，通过 Python 实际计算收益率并绘图。"
+  }
+]

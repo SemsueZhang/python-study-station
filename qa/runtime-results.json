@@ -1,0 +1,1059 @@
+[
+  {
+    "id": "ch1-0fd94009f9ce",
+    "passed": true,
+    "status": "done",
+    "output": "5\n",
+    "images": 0
+  },
+  {
+    "id": "ch1-8d50c6fd278f",
+    "passed": true,
+    "status": "done",
+    "output": "12.566\n",
+    "images": 0
+  },
+  {
+    "id": "ch1-988be7537858",
+    "passed": true,
+    "status": "done",
+    "output": "1963.4375000000002\n1963.44\n",
+    "images": 0
+  },
+  {
+    "id": "ch1-cbc54f7853bd",
+    "passed": true,
+    "status": "done",
+    "output": "Please enter your name: Hello, 小林\n",
+    "images": 0
+  },
+  {
+    "id": "ch1-7937c723859e",
+    "passed": true,
+    "status": "done",
+    "output": "",
+    "images": 0
+  },
+  {
+    "id": "ch1-8c2f4ed39212",
+    "passed": true,
+    "status": "done",
+    "output": "2026-11-06 13:12:42.915000\n2026-11-06\n13:12:42\n",
+    "images": 0
+  },
+  {
+    "id": "ch1-c8f62ae2fc70",
+    "passed": true,
+    "status": "done",
+    "output": "12\nten\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-e14f11bc80b2",
+    "passed": true,
+    "status": "done",
+    "output": "77.0\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-526b27fc5e8b",
+    "passed": true,
+    "status": "done",
+    "output": "32.0\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-d27523f59fd8",
+    "passed": true,
+    "status": "done",
+    "output": "True\n6\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-f13c00fb17ca",
+    "passed": true,
+    "status": "done",
+    "output": "5 2\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-46dbfad344b1",
+    "passed": true,
+    "status": "done",
+    "output": "15\n123\n15.0\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-a0833336a560",
+    "passed": true,
+    "status": "done",
+    "output": "82\n82\nF\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-c1871253cc60",
+    "passed": true,
+    "status": "done",
+    "output": "True\nFalse\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-4fd3a8757ef5",
+    "passed": true,
+    "status": "done",
+    "output": "negative\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-19a9f4099f86",
+    "passed": true,
+    "status": "done",
+    "output": "positive\ninside the branch\nfinished\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-03e9cff1fd8e",
+    "passed": true,
+    "status": "done",
+    "output": "77.0\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-3d28767a5f03",
+    "passed": true,
+    "status": "done",
+    "output": "60\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-5e342b2218cd",
+    "passed": true,
+    "status": "done",
+    "output": "Enter a number: 42\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-07f4633cbdee",
+    "passed": true,
+    "status": "done",
+    "output": "37.5\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-59fe776ff489",
+    "passed": true,
+    "status": "done",
+    "output": "1\n3\n1 + 2\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-afe21c27de2d",
+    "passed": true,
+    "status": "done",
+    "output": "A B\nA-B\nAB\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-24580b1789e3",
+    "passed": true,
+    "status": "done",
+    "output": "Result 12.35C\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-81cf3a8c83b9",
+    "passed": true,
+    "status": "done",
+    "output": "r=2, area=12.57\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-ad5b0e4615bd",
+    "passed": true,
+    "status": "done",
+    "output": "Hello\nWorld\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-263678970ee1",
+    "passed": true,
+    "status": "done",
+    "output": "H\ne\nl\nl\no\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-3a367e5a7aba",
+    "passed": true,
+    "status": "done",
+    "output": "Enter a temperature, such as 82F: 27.78C\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-fb1bc632cf9d",
+    "passed": true,
+    "status": "done",
+    "output": "77.00F\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-187fd836a190",
+    "passed": true,
+    "status": "done",
+    "output": "C 12.34\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-260cd7773383",
+    "passed": true,
+    "status": "done",
+    "output": "USD10.00\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-53044c6e668c",
+    "passed": true,
+    "status": "done",
+    "output": "12.57\n12.57\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-b70f7d424dc1",
+    "passed": true,
+    "status": "done",
+    "output": "4.0\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-54aa997ff20a",
+    "passed": true,
+    "status": "done",
+    "output": "4.0\n",
+    "images": 0
+  },
+  {
+    "id": "ch2-25ebfef6becb",
+    "passed": true,
+    "status": "done",
+    "output": "4.0\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-1441a2475d19",
+    "passed": true,
+    "status": "done",
+    "output": "<class 'int'>\n<class 'float'>\n<class 'float'>\nTrue\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-bc4a66f387ad",
+    "passed": true,
+    "status": "done",
+    "output": "1267650600228229401496703205376\n100000000000000000001\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-63ec3b2e8f32",
+    "passed": true,
+    "status": "done",
+    "output": "True\n0b11010\n0o32\n0x1a\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-1e8ee68219c9",
+    "passed": true,
+    "status": "done",
+    "output": "0.0043\n960000.0\n1000.0\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-b48321f53126",
+    "passed": true,
+    "status": "done",
+    "output": "0.30000000000000004\nFalse\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-77b8e6eaa6d5",
+    "passed": true,
+    "status": "done",
+    "output": "12.35\n1200\n2\n4\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-f03dac08bea1",
+    "passed": true,
+    "status": "done",
+    "output": "True\nTrue\nTrue\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-8db9b75cd256",
+    "passed": true,
+    "status": "done",
+    "output": "3.0\n4.0\n(-7+24j)\n5.0\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-b9e48793e79a",
+    "passed": true,
+    "status": "done",
+    "output": "True\n2\nTrue\n<class 'bool'>\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-19167b60e284",
+    "passed": true,
+    "status": "done",
+    "output": "[5, 3, 1]\n[]\n<class 'range'>\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-76815d96f45b",
+    "passed": true,
+    "status": "done",
+    "output": "<class 'NoneType'>\nTrue\nFalse\nFalse\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-1aea15d101db",
+    "passed": true,
+    "status": "done",
+    "output": "-2.3333333333333335\n-3\n-2\n2\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-60de9623e35a",
+    "passed": true,
+    "status": "done",
+    "output": "14\n20\n512\n-4\n4\n0.25\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-334298e8f48b",
+    "passed": true,
+    "status": "done",
+    "output": "14\n7.0\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-a48badcce475",
+    "passed": true,
+    "status": "done",
+    "output": "3 5\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-29396ac5911f",
+    "passed": true,
+    "status": "done",
+    "output": "12\n-12\n12\n12.9\n12.0\n(4+0j)\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-cefe012a56b6",
+    "passed": true,
+    "status": "done",
+    "output": "1.44 0.69\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-a35c2334a141",
+    "passed": true,
+    "status": "done",
+    "output": "4.72\n",
+    "images": 0
+  },
+  {
+    "id": "ch3-2e81eb426229",
+    "passed": true,
+    "status": "done",
+    "output": "0.019\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-62029612cc06",
+    "passed": true,
+    "status": "done",
+    "output": "Python 欢迎学习 123\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-c5b4b3c36ef4",
+    "passed": true,
+    "status": "done",
+    "output": "He said \"hello\".\nIt's a good day.\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-94e04899de9e",
+    "passed": true,
+    "status": "done",
+    "output": "第一行\n第二行\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-6e2dbff2d1e0",
+    "passed": true,
+    "status": "done",
+    "output": "a\nb\n3\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-e59c66eb5dad",
+    "passed": true,
+    "status": "done",
+    "output": "P\nn\nP\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-b72acb48331d",
+    "passed": true,
+    "status": "done",
+    "output": "yth\nPyt\nhon\nPytho\nPython\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-61b098e9f3b9",
+    "passed": true,
+    "status": "done",
+    "output": "yh\nPto\nnhy\nnohtyP\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-3e8533a6e721",
+    "passed": true,
+    "status": "done",
+    "output": "nohtyP\n\n\nnohty\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-b1d72baa4cee",
+    "passed": true,
+    "status": "done",
+    "output": "Jython\nPython\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-4238e587af0f",
+    "passed": true,
+    "status": "done",
+    "output": "Python\nPYTHON\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-d9450dc8d422",
+    "passed": true,
+    "status": "done",
+    "output": "6\n1.23\n0x1a9\n0o651\n65\nA\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-fae84246fc9f",
+    "passed": true,
+    "status": "done",
+    "output": "abcd\nABCD\n2\n2\nX-b-X\nX-b-a\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-a031d91fe5fb",
+    "passed": true,
+    "status": "done",
+    "output": "['A', 'B', 'C']\n['A', '', 'B', '']\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-c22c2f9debf3",
+    "passed": true,
+    "status": "done",
+    "output": "Python\nPython\nytho\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-d6a1a4961882",
+    "passed": true,
+    "status": "done",
+    "output": "A,B,C\n1-2-3\nPython\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-ef39d59c2a46",
+    "passed": true,
+    "status": "done",
+    "output": "==Python==\nPython\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-77ddb789f1f3",
+    "passed": true,
+    "status": "done",
+    "output": "小林得了90分\n小林得了90分\n2+2=4\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-988d56351d37",
+    "passed": true,
+    "status": "done",
+    "output": "******Py\n==Python==\n12,345.68\nPyt\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-7e179f1e6f9a",
+    "passed": true,
+    "status": "done",
+    "output": "请输入1至7 星期三\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-e143a2eae6a7",
+    "passed": true,
+    "status": "done",
+    "output": "星期三\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-664e5db2d018",
+    "passed": true,
+    "status": "done",
+    "output": "UTC time.struct_time(tm_year=2026, tm_mon=11, tm_mday=6, tm_hour=5, tm_min=14, tm_sec=8, tm_wday=4, tm_yday=310, tm_isdst=0)\n本地 time.struct_time(tm_year=2026, tm_mon=11, tm_mday=6, tm_hour=13, tm_min=14, tm_sec=8, tm_wday=4, tm_yday=310, tm_isdst=0)\nFri Nov  6 13:14:08 2026\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-41cb4d1eb4e1",
+    "passed": true,
+    "status": "done",
+    "output": "1970 1 1\n0\n3\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-7fc61d9415b2",
+    "passed": true,
+    "status": "done",
+    "output": "1970-01-01 00:00:00\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-eda14e6c689a",
+    "passed": true,
+    "status": "done",
+    "output": "2026 11 5\n8 30\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-e99b938fa547",
+    "passed": true,
+    "status": "done",
+    "output": "4999950000\n0.020300\n",
+    "images": 0
+  },
+  {
+    "id": "ch4-1293b693e77d",
+    "passed": true,
+    "status": "done",
+    "output": "0.11139999999999994\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-0175118189dc",
+    "passed": true,
+    "status": "done",
+    "output": "正数\n判断结束\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-86f4a12a6ca2",
+    "passed": true,
+    "status": "done",
+    "output": "已完成短路判断\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-eda1484326e9",
+    "passed": true,
+    "status": "done",
+    "output": "天气较热\n奇数\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-64a5408f01aa",
+    "passed": true,
+    "status": "done",
+    "output": "B\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-37d21d3fbb8a",
+    "passed": true,
+    "status": "done",
+    "output": "奇数\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-e97202aaf380",
+    "passed": true,
+    "status": "done",
+    "output": "请输入整数 144\n本次处理结束\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-31ac1acd8ce7",
+    "passed": true,
+    "status": "done",
+    "output": "请输入非零整数 计算结果为5.00\n本次尝试结束\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-c85a2f9d6ef1",
+    "passed": true,
+    "status": "done",
+    "output": "身高，单位m 体重，单位kg BMI为21.22\n国际分类为正常，国内分类为正常\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-d2ff5d3be966",
+    "passed": true,
+    "status": "done",
+    "output": "10\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-7c468b442deb",
+    "passed": true,
+    "status": "done",
+    "output": "P y t h o n \n12\nPY\n34\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-75ecbbf355a4",
+    "passed": true,
+    "status": "done",
+    "output": "第一行 Python\n第二行 学会循环\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-29eb29129860",
+    "passed": true,
+    "status": "done",
+    "output": "2\n1\n0\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-f54587c04734",
+    "passed": true,
+    "status": "done",
+    "output": "请输入正整数 输入值需要大于0\n请输入正整数 请重新输入整数\n请输入正整数 已读取3\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-2cac1fb4d6c0",
+    "passed": true,
+    "status": "done",
+    "output": "",
+    "images": 0
+  },
+  {
+    "id": "ch5-6baa8a374695",
+    "passed": true,
+    "status": "done",
+    "output": "0 0\n1 0\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-d4240f848d59",
+    "passed": true,
+    "status": "done",
+    "output": "未找到\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-3c55ae3f82bc",
+    "passed": true,
+    "status": "done",
+    "output": "素数\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-7c2b0f4c3d19",
+    "passed": true,
+    "status": "done",
+    "output": "True\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-ce024bf036c8",
+    "passed": true,
+    "status": "done",
+    "output": "None\n[1, 2, 3, 4]\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-230cfbdbadda",
+    "passed": true,
+    "status": "done",
+    "output": "3.141592653589793\n",
+    "images": 0
+  },
+  {
+    "id": "ch5-dc67409d016b",
+    "passed": true,
+    "status": "done",
+    "output": "圆周率近似值为3.154680\n耗时约0.0527秒\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-8e2fdb24936a",
+    "passed": true,
+    "status": "done",
+    "output": "2 3 5 7 11 13 17 19 \n2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 \n",
+    "images": 0
+  },
+  {
+    "id": "ch6-21d4bd3f94f3",
+    "passed": true,
+    "status": "done",
+    "output": "120\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-d91ec1b407d2",
+    "passed": true,
+    "status": "done",
+    "output": "ready\ninside\n10\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-d319fa41fa8a",
+    "passed": true,
+    "status": "done",
+    "output": "Hello\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-47ba35eb2991",
+    "passed": true,
+    "status": "done",
+    "output": "8\n8\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-ac866afc14af",
+    "passed": true,
+    "status": "done",
+    "output": "6\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-0d78094433e9",
+    "passed": true,
+    "status": "done",
+    "output": "120\n40\n40\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-5e56b0ff987f",
+    "passed": true,
+    "status": "done",
+    "output": "6\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-723cec569cdc",
+    "passed": true,
+    "status": "done",
+    "output": "11\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-e85405290e9b",
+    "passed": true,
+    "status": "done",
+    "output": "[1]\n[1, 2]\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-c82d0147e06c",
+    "passed": true,
+    "status": "done",
+    "output": "[1]\n[2]\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-3a6adc4d47f6",
+    "passed": true,
+    "status": "done",
+    "output": "6\n60\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-d7c09d65e7f6",
+    "passed": true,
+    "status": "done",
+    "output": "60\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-7ae7c7559431",
+    "passed": true,
+    "status": "done",
+    "output": "5\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-c812a3ace49e",
+    "passed": true,
+    "status": "done",
+    "output": "None\ndone\nNone\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-1cfe13ef5802",
+    "passed": true,
+    "status": "done",
+    "output": "(3, 2)\n3 2\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-709b79294791",
+    "passed": true,
+    "status": "done",
+    "output": "9\nNone\n10\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-96bbcd2dc00d",
+    "passed": true,
+    "status": "done",
+    "output": "120 100\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-ecc93026d04c",
+    "passed": true,
+    "status": "done",
+    "output": "2\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-ad31c9f33e84",
+    "passed": true,
+    "status": "error",
+    "output": "PythonError: Traceback (most recent call last):\n  File \"/lib/python313.zip/_pyodide/_base.py\", line 597, in eval_code_async\n    await CodeRunner(\n    ...<9 lines>...\n    .run_async(globals, locals)\n  File \"/lib/python313.zip/_pyodide/_base.py\", line 411, in run_async\n    coroutine = eval(self.code, globals, locals)\n  File \"<exec>\", line 1, in <module>\n  File \"学习代码.py\", line 9, in <module>\n  File \"学习代码.py\", line 5, in improve\nUnboundLocalError: cannot access local variable 'score' where it is not associated with a value\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-4641c6b792cd",
+    "passed": true,
+    "status": "done",
+    "output": "11\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-41492893fca9",
+    "passed": true,
+    "status": "done",
+    "output": "['F', 'f', 'C']\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-272d25c54f95",
+    "passed": true,
+    "status": "done",
+    "output": "['F', 'f']\n['C']\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-8f99b16ea075",
+    "passed": true,
+    "status": "done",
+    "output": "[1, 2, 3]\n[99]\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-13d660b68095",
+    "passed": true,
+    "status": "done",
+    "output": "25\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-512a4869494c",
+    "passed": true,
+    "status": "done",
+    "output": "['fig', 'pear', 'apple']\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-0a25f02a59a6",
+    "passed": true,
+    "status": "done",
+    "output": "4.720\n7.910\n",
+    "images": 0
+  },
+  {
+    "id": "ch6-4d967eaf6bed",
+    "passed": true,
+    "status": "done",
+    "output": "0.019\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-cf764ddbef2a",
+    "passed": true,
+    "status": "done",
+    "output": "120\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-06734c1618d2",
+    "passed": true,
+    "status": "error",
+    "output": "PythonError: Traceback (most recent call last):\n  File \"/lib/python313.zip/_pyodide/_base.py\", line 597, in eval_code_async\n    await CodeRunner(\n    ...<9 lines>...\n    .run_async(globals, locals)\n  File \"/lib/python313.zip/_pyodide/_base.py\", line 411, in run_async\n    coroutine = eval(self.code, globals, locals)\n  File \"<exec>\", line 1, in <module>\n  File \"学习代码.py\", line 7, in <module>\n  File \"学习代码.py\", line 4, in bad_factorial\n  File \"学习代码.py\", line 4, in bad_factorial\n  File \"学习代码.py\", line 4, in bad_factorial\n  [Previous line repeated 991 more times]\nRecursionError: maximum recursion depth exceeded\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-9018b7e2a87e",
+    "passed": true,
+    "status": "error",
+    "output": "PythonError: Traceback (most recent call last):\n  File \"/lib/python313.zip/_pyodide/_base.py\", line 597, in eval_code_async\n    await CodeRunner(\n    ...<9 lines>...\n    .run_async(globals, locals)\n  File \"/lib/python313.zip/_pyodide/_base.py\", line 411, in run_async\n    coroutine = eval(self.code, globals, locals)\n  File \"<exec>\", line 1, in <module>\n  File \"学习代码.py\", line 7, in <module>\n  File \"学习代码.py\", line 4, in wrong_factorial\n  File \"学习代码.py\", line 4, in wrong_factorial\nTypeError: unsupported operand type(s) for *: 'int' and 'NoneType'\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-a0718b12713d",
+    "passed": true,
+    "status": "done",
+    "output": "nohtyP\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-56eaf1ef5bbf",
+    "passed": true,
+    "status": "done",
+    "output": "Python\nnohtyP\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-d276e8da5696",
+    "passed": true,
+    "status": "done",
+    "output": "21\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-4201dd372a3c",
+    "passed": true,
+    "status": "done",
+    "output": "21\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-115518e694ae",
+    "passed": true,
+    "status": "done",
+    "output": "A C\nA B\nC B\nA C\nB A\nB C\nA C\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-dfef20ce272b",
+    "passed": true,
+    "status": "done",
+    "output": "8\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-f18734dc044f",
+    "passed": true,
+    "status": "done",
+    "output": "90.00\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-34375eb0d963",
+    "passed": true,
+    "status": "done",
+    "output": "[模拟配置] {'chat': ('Qwen/Qwen2.5-7B-Instruct',), 'vision': ('Qwen/Qwen3-VL-8B-Instruct',), 'image': ('Qwen/Qwen-Image',), 'image_edit': ('Qwen/Qwen-Image-Edit-2509',)}\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-dc98ccd8fd47",
+    "passed": true,
+    "status": "done",
+    "output": "Python\n[模拟接口] 客户端已关闭\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-9a294a5c9643",
+    "passed": true,
+    "status": "done",
+    "output": "[模拟接口] models.list()\n[模拟接口] 客户端已关闭\n['Qwen/Qwen2.5-7B-Instruct']\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-4d9373ff007a",
+    "passed": true,
+    "status": "done",
+    "output": "[模拟接口] chat.completions.create() model= Qwen/Qwen2.5-7B-Instruct max_tokens= 1024\n[模拟接口] 客户端已关闭\n[模拟响应] 函数封装一组步骤。参数接收输入。return 将结果交回调用者。\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-27b453de3ba3",
+    "passed": true,
+    "status": "done",
+    "output": "[模拟接口] models.list()\n[模拟接口] 客户端已关闭\n[模拟接口] chat.completions.create() model= Qwen/Qwen2.5-7B-Instruct max_tokens= 256\n[模拟响应] 函数封装一组步骤。参数接收输入。return 将结果交回调用者。\n[模拟接口] chat.completions.create() model= Qwen/Qwen2.5-7B-Instruct max_tokens= 128\n[模拟响应] def square(x): return x * x\n调用 square(3) 得到 9。\n[模拟接口] 客户端已关闭\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-96a970464f5b",
+    "passed": true,
+    "status": "done",
+    "output": "Loading Pillow, contourpy, cycler, fonttools, kiwisolver, matplotlib, numpy, packaging, pandas, pyparsing, python-dateutil, pytz, six\nLoaded Pillow, contourpy, cycler, fonttools, kiwisolver, matplotlib, numpy, packaging, pandas, pyparsing, python-dateutil, pytz, six\nmatplotlib already loaded from default channel\npandas already loaded from default channel\nNo new packages to load\n[内置示例数据] 合成成分股 DEMO_A / DEMO_B / DEMO_C\n  con_code  weight trade_date\n0   DEMO_A    40.0   20240105\n1   DEMO_B    35.0   20240105\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-e2989810887d",
+    "passed": true,
+    "status": "done",
+    "output": "Loading Pillow, contourpy, cycler, fonttools, kiwisolver, matplotlib, numpy, packaging, pandas, pyparsing, python-dateutil, pytz, six\nLoaded Pillow, contourpy, cycler, fonttools, kiwisolver, matplotlib, numpy, packaging, pandas, pyparsing, python-dateutil, pytz, six\nmatplotlib already loaded from default channel\npandas already loaded from default channel\nNo new packages to load\n[内置示例数据] DEMO_A 固定价格序列，非真实行情\n  trade_date  close       ret\n0 2024-01-02  100.0       NaN\n1 2024-01-03  103.0  0.030000\n2 2024-01-04  101.0 -0.019417\n3 2024-01-05  106.0  0.049505\n4 2024-01-08  108.0  0.018868\n5 2024-01-09  105.0 -0.027778\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-f91d134ea09c",
+    "passed": true,
+    "status": "done",
+    "output": "Loading Pillow, contourpy, cycler, fonttools, kiwisolver, matplotlib, numpy, packaging, pandas, pyparsing, python-dateutil, pytz, six\nLoaded Pillow, contourpy, cycler, fonttools, kiwisolver, matplotlib, numpy, packaging, pandas, pyparsing, python-dateutil, pytz, six\nmatplotlib already loaded from default channel\npandas already loaded from default channel\nNo new packages to load\n[内置示例数据] DEMO_A 固定价格序列，非真实行情\n{'DEMO_A':   trade_date  close       ret\n0 2024-01-02  100.0       NaN\n1 2024-01-03  103.0  0.030000\n2 2024-01-04  101.0 -0.019417\n3 2024-01-05  106.0  0.049505\n4 2024-01-08  108.0  0.018868\n5 2024-01-09  105.0 -0.027778}\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-bf51711cad85",
+    "passed": true,
+    "status": "done",
+    "output": "Loading Pillow, contourpy, cycler, fonttools, kiwisolver, matplotlib, numpy, packaging, pandas, pyparsing, python-dateutil, pytz, six\nLoaded Pillow, contourpy, cycler, fonttools, kiwisolver, matplotlib, numpy, packaging, pandas, pyparsing, python-dateutil, pytz, six\nmatplotlib already loaded from default channel\npandas already loaded from default channel\nNo new packages to load\n[内置示例数据] DEMO_A 固定价格序列，非真实行情\n",
+    "images": 1
+  },
+  {
+    "id": "ch7-2c43ec691901",
+    "passed": true,
+    "status": "done",
+    "output": "Loading Pillow, contourpy, cycler, fonttools, kiwisolver, matplotlib, numpy, packaging, pandas, pyparsing, python-dateutil, pytz, six\nLoaded Pillow, contourpy, cycler, fonttools, kiwisolver, matplotlib, numpy, packaging, pandas, pyparsing, python-dateutil, pytz, six\n[内置示例数据] 合成成分股 DEMO_A / DEMO_B / DEMO_C\n[内置示例数据] DEMO_A 固定价格序列，非真实行情\n[内置示例数据] DEMO_B 固定价格序列，非真实行情\n",
+    "images": 1
+  },
+  {
+    "id": "ch7-25f2c4698102",
+    "passed": true,
+    "status": "done",
+    "output": "Loading numpy, pandas, python-dateutil, pytz, six\nLoaded numpy, pandas, python-dateutil, pytz, six\npandas already loaded from default channel\nNo new packages to load\n   close   ret\n0  100.0   NaN\n1  105.0  0.05\n2  102.9 -0.02\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-ai-demo",
+    "passed": true,
+    "status": "done",
+    "output": "你的问题：[本地模拟数据] 递归需要基例，并且每次调用都要接近基例。\n",
+    "images": 0
+  },
+  {
+    "id": "ch7-stock-demo",
+    "passed": true,
+    "status": "done",
+    "output": "Loading Pillow, contourpy, cycler, fonttools, kiwisolver, matplotlib, numpy, packaging, pandas, pyparsing, python-dateutil, pytz, six\nLoaded Pillow, contourpy, cycler, fonttools, kiwisolver, matplotlib, numpy, packaging, pandas, pyparsing, python-dateutil, pytz, six\nmatplotlib already loaded from default channel\npandas already loaded from default channel\nNo new packages to load\n      date  close  return_pct\n2026-01-05    100         NaN\n2026-01-06    103    3.000000\n2026-01-07    101   -1.941748\n2026-01-08    106    4.950495\n2026-01-09    108    1.886792\n2026-01-10    105   -2.777778\n",
+    "images": 1
+  }
+]

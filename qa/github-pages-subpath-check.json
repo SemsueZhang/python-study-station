@@ -1,0 +1,13 @@
+{
+  "url": "http://127.0.0.1:4174/python-study-station/",
+  "checks": [
+    "匿名首页 HTTP 200、React 内容完整呈现",
+    "章节深链接直接打开与刷新",
+    "章节运行过程中滚动不丢失状态、Worker 实际输出 5",
+    "线上 pandas 数据计算和 matplotlib 实际绘图",
+    "线上手机阅读无页面横向溢出"
+  ],
+  "errors": [],
+  "anonymous": true,
+  "passed": true
+}
