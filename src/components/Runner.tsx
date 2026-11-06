@@ -51,5 +51,5 @@ export function Runner({example,initiallyOpen=false}: {example: Example; initial
 export function CodeBlock({code,language,example}: {code:string;language:string;example?:Example}) {
  const [copied,setCopied]=useState(false);
  async function copy(){try{await navigator.clipboard.writeText(code);setCopied(true);setTimeout(()=>setCopied(false),1800)}catch{setCopied(false)}}
- return <div className="code-block"><div className="code-caption"><span><i/>{language||'文本'}</span><button onClick={copy} aria-label="复制代码">{copied?<Check size={14}/>:<Copy size={14}/>} {copied?'已复制':'复制'}</button></div><pre><code>{code}</code></pre>{example&&<Runner example={example}/>}</div>;
+ return <div className="code-block"><div className="code-caption"><span><i/>{language||'文本'}</span><button onClick={copy} aria-label="复制代码">{copied?<Check size={14}/>:<Copy size={14}/>} {copied?'已复制':'复制'}</button></div><pre tabIndex={0}><code>{code}</code></pre>{example&&<Runner example={example}/>}</div>;
 }
