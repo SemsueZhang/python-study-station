@@ -26,7 +26,7 @@ await check('按章答题、原解析、错题持久化及重练移出',async()=
 });
 await check('随机抽取20题无重复、跨题代码完整',async()=>{
  await page.goto(base+'#/practice/random');assert.equal(await page.locator('.question-dots button').count(),20);
- const labels=await page.locator('.question-dots button').evaluateAll(nodes=>nodes.map(n=>n.getAttribute('aria-label')?.split('原')[1]));assert.equal(new Set(labels).size,20);
+ const labels=await page.locator('.question-dots button').evaluateAll(nodes=>nodes.map(n=>n.getAttribute('aria-label')?.split('，')[1]));assert.equal(new Set(labels).size,20);
  const data=await import('../src/data/course.json',{with:{type:'json'}});const refs=data.default.chapters.flatMap(c=>c.questions).filter(q=>q.context);
  for(const q of refs){await page.goto(base+'#/practice/question/'+q.id);await expect(page.locator('.question-context')).toContainText('原第 '+q.context.number+' 题');assert(await page.locator('.question-context code').count()>0)}
 });

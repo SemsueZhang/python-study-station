@@ -24,6 +24,7 @@ jobs:
       - run: npm ci
       - run: npm run sync-content
       - run: npm run check-content
+      - run: npm run check-bank
       - run: npm run build
       - uses: actions/upload-pages-artifact@v3
         with:

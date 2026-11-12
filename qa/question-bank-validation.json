@@ -1,0 +1,24 @@
+{
+  "totalNew": 500,
+  "original": 140,
+  "chapters": {
+    "1": 50,
+    "2": 65,
+    "3": 85,
+    "4": 90,
+    "5": 90,
+    "6": 65,
+    "7": 55
+  },
+  "executableChecked": 363,
+  "conceptualQuestions": 137,
+  "duplicatePrompts": 0,
+  "duplicateExecutableCode": 0,
+  "answers": {
+    "C": 125,
+    "B": 125,
+    "A": 125,
+    "D": 125
+  },
+  "status": "passed"
+}

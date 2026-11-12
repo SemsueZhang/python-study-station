@@ -8,7 +8,9 @@
     "dev": "vite --host 127.0.0.1",
     "build": "tsc -b && vite build",
     "preview": "vite preview --host 127.0.0.1",
-    "check-content": "node scripts/check-content.mjs"
+    "check-content": "node scripts/check-content.mjs",
+    "check-bank": "python3 scripts/check-question-bank.py",
+    "test:exam": "node tests/exam-check.mjs"
   },
   "dependencies": {
     "katex": "^0.16.22",
