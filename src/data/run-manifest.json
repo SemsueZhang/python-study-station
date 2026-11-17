@@ -1394,6 +1394,276 @@
     "note": "所需文件已放入本次运行的虚拟目录。"
   },
   {
+    "id": "ch8-c4aba7ddb7f4",
+    "chapter": 8,
+    "section": "s2",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-7f88c645a256",
+    "chapter": 8,
+    "section": "s2",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-027e669e8c47",
+    "chapter": 8,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-d5d122db2352",
+    "chapter": 8,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-e176bd3146c5",
+    "chapter": 8,
+    "section": "s3",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-c8c7166a67a6",
+    "chapter": 8,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-aca18fc259f5",
+    "chapter": 8,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-e03ccda3438e",
+    "chapter": 8,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-75fda4dcb454",
+    "chapter": 8,
+    "section": "s4",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-dba7911eaa61",
+    "chapter": 8,
+    "section": "s5",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-4f4480eda771",
+    "chapter": 8,
+    "section": "s5",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-20eedcd9a6e4",
+    "chapter": 8,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-a520268e5e54",
+    "chapter": 8,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-20a6c03b4056",
+    "chapter": 8,
+    "section": "s6",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-cfab7292d3e0",
+    "chapter": 8,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-163acdc58696",
+    "chapter": 8,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-b3f4ea4ccd0b",
+    "chapter": 8,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-36252433c5d0",
+    "chapter": 8,
+    "section": "s7",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-7474f060ed0f",
+    "chapter": 8,
+    "section": "s8",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-f529bb6978e4",
+    "chapter": 8,
+    "section": "s8",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-062ed62183ec",
+    "chapter": 8,
+    "section": "s8",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-a8a37391d111",
+    "chapter": 8,
+    "section": "s8",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-8bd495c36307",
+    "chapter": 8,
+    "section": "s9",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-92d538c433b0",
+    "chapter": 8,
+    "section": "s9",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-d83f00802c69",
+    "chapter": 8,
+    "section": "s10",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-c3c19c9c82ea",
+    "chapter": 8,
+    "section": "s10",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-08356983f4df",
+    "chapter": 8,
+    "section": "s10",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-4f7b1ec97f94",
+    "chapter": 8,
+    "section": "s11",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-d2c5854fb69d",
+    "chapter": 8,
+    "section": "s11",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
+    "id": "ch8-99b324107798",
+    "chapter": 8,
+    "section": "s11",
+    "expectedError": "",
+    "files": [],
+    "packages": [],
+    "note": ""
+  },
+  {
     "id": "ch7-ai-demo",
     "chapter": 7,
     "section": "s7",

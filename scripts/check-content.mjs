@@ -9,7 +9,7 @@ const parser=unified().use(remarkParse);
 const ids=new Set();let bodyCodes=0,refs=0,tables=0;
 function unique(id){assert(!ids.has(id),`重复 ID ${id}`);ids.add(id)}
 function walk(node,fn){fn(node);node.children?.forEach(n=>walk(n,fn))}
-assert.equal(d.chapters.length,7);assert.equal(d.examples.length,151);
+assert.deepEqual(d.chapters.map(c=>c.id),[1,2,3,4,5,6,7,8]);
 for(const c of d.chapters){
  unique(`ch${c.id}`);assert.equal(c.questions.length,20);
  const text=await readFile(`${source}/${c.source}`,'utf8');
@@ -37,6 +37,7 @@ for(const c of d.chapters){
   const ref=q.prompt.match(/第(\d+)题/);if(ref&&Number(ref[1])!==q.number){refs++;assert(q.context,q.id+' 跨题引用');assert.equal(q.context.prompt,c.questions[Number(ref[1])-1].prompt)}
  }
 }
+assert.equal(d.examples.length,bodyCodes+2);
 for(const e of d.examples){unique(e.id);assert(e.code.trim());assert(d.chapters.find(c=>c.id===e.chapter)?.sections.some(s=>s.id===e.section));assert(Object.keys(e.files).every(f=>!f.includes('/')&&!f.includes('..')))}
 const manifest=d.examples.map(({id,chapter,section,expectedError,files,packages,note})=>({id,chapter,section,expectedError,files:Object.keys(files),packages,note}));
 await writeFile('src/data/run-manifest.json',JSON.stringify(manifest,null,2)+'\n');

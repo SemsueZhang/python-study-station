@@ -6,6 +6,8 @@ import {createExam, drawQuestions, gradeExam, parseExam, EXAM_STORAGE_KEY} from 
 
 const bank = JSON.parse(await readFile('src/data/question-bank.json', 'utf8')).questions;
 const byId = new Map(bank.map(q => [q.id, q]));
+const course = JSON.parse(await readFile('src/data/course.json', 'utf8'));
+const totalQuestions = bank.length + course.chapters.reduce((n, c) => n + c.questions.length, 0);
 const base = process.env.SITE_URL || 'http://127.0.0.1:4173/';
 const checks = [];
 const browser = await chromium.launch({headless: true});
@@ -46,11 +48,11 @@ await check('评分边界与损坏存档恢复校验', async () => {
   assert.equal(parseExam(JSON.stringify({...s, index: -1}), bank), null);
   assert.equal(parseExam(JSON.stringify({...s, submittedAt: s.startedAt-1}), bank), null);
 });
-await check('新旧题库分开练习、搜索与640题统计', async () => {
+await check('章节题与新增题库练习、搜索与总题数统计', async () => {
   await page.goto(base+'#/');
   await page.evaluate(() => localStorage.setItem('python-study-progress-v1', JSON.stringify({version:1,completed:['ch1-intro'],lastRead:{chapter:1,section:'intro'},answers:{'ch1-q1':{selected:'B',correct:true,attempts:3,correctAttempts:2}}})));
   await page.reload();
-  await expect(page.locator('.stats-row')).toContainText('/ 640');
+  await expect(page.locator('.stats-row')).toContainText('/ '+totalQuestions);
   await page.goto(base+'#/practice/bank');
   assert.equal(await page.locator('.practice-chapter').count(), 7);
   const counts = await page.locator('.practice-chapter p').allTextContents();
